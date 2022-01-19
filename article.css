@@ -5,7 +5,7 @@ body {
 .navbar__logo {
   color: #d49466;
   font-style: italic;
-  font-size: 25px;
+  font-size: 24px;
 }
 a {
   text-decoration: none;
@@ -40,10 +40,11 @@ a {
 .navbar__icons li {
   padding: 8px 12px;
 }
-
-.img-box {
+/* home */
+.home .img-box {
   max-width: 1000px;
-  width: 80%;
+  width: 100%;
+  height:100%;
   margin: 0 auto;
   background-color: grey;
 }
@@ -54,6 +55,7 @@ a {
 }
 
 .massage-box {
+ 
   max-width: 800px;
   width: 100%;
   padding-bottom: 25%;
